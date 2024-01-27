@@ -1,7 +1,7 @@
 <br/>
 <h1 align="center">Acampamento Steps 2024</h1>
 
-<p align="center"> O projeto Acampamento Steps 2024 é uma comunidade que possui as principais tecnologias e aplicativo(s) utilizadas(os) para o Acampamento Steps 2024. Este evento é um evento Organizado pela Coordenadoria Regional de Jovens Quadrangular da Região de São Carlos (513). A comunidade conta com três principais projetos que compõe a essência da comunidade:</p>
+<p align="center"> O projeto Acampamento Steps 2024 é uma comunidade que possui as principais tecnologias e aplicativo(s) utilizadas(os) para o Acampamento Steps 2024. Este evento é um evento Cristão Organizado pela Coordenadoria Regional de Jovens Quadrangular da Região de São Carlos (513). A comunidade conta com três principais projetos que compõe a essência da comunidade:</p>
 
 <hr>
 
