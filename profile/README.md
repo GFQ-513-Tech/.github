@@ -13,6 +13,16 @@
 </p>
 </br>
 
+<h1> Acamp Steps 2024 - Backoffice</h1>
+
+<p>Este projeto é um Progressive Web Aplication (PWA) construído utilizando essencialmente HTML5, CSS3, Bootstrap e JavaScript. O objetivo principal é permitir que a equipe de frente de trabalho do evento consiga gerenciar inscrições, realizar check-in e check-out dos acampantes, bem como também visualizar os medicamentos/alergias utilizados por cada acampante.</p>
+
+<p>
+  <img src="https://github.com/Acamp-Steps-2024/Acamp-Steps-2024/assets/83319546/03371770-a284-478a-84fa-18a4c452be88" alt="Logo" width="30%">
+  <img src="https://github.com/Acamp-Steps-2024/Acamp-Steps-2024/assets/83319546/b8f94e5c-de88-430d-9756-359872b7d0bb" alt="Logo" width="30%">
+  <img src="https://github.com/Acamp-Steps-2024/Acamp-Steps-2024/assets/83319546/353e3d01-2a3c-42e1-ab1d-25e933d1c9f5" alt="Logo" width="30%">
+</p>
+
 ## 🤝 Colaboradores
 
 Agradecemos à(s) seguinte(s) pessoa(s) que contribuíu(ram) para este projeto:
