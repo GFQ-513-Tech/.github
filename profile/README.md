@@ -12,6 +12,40 @@
 <h2 align="center">Acampamento Let's Go 2025</h2>
 
 <h3>
+  <a href="https://github.com/GFQ-513-Tech/lets-go-acamp-frontend">Let' Go Acamp 2025</a>
+</h3>
+
+<p>
+  Este projeto é a interface web do Acampamento 2025, desenvolvida com React e TypeScript. Embora tenha o formato de uma landing page, ela vai além de apenas exibir informações, pois centraliza o fluxo de inscrição e pagamento dos participantes.
+  O processo funciona da seguinte forma: o usuário insere seu CPF, e a aplicação verifica na API se ele já possui uma inscrição. Caso tenha, um código de confirmação é enviado para seu número de telefone. Se não tiver, ele é redirecionado para preencher suas informações.
+</p>
+
+<p>
+  Após a confirmação do código, os dados do participante são exibidos. Ele revisa e confirma as informações antes de selecionar o ingresso desejado. A partir dessa escolha, o usuário pode prosseguir para o pagamento, que é processado via Mercado Pago (integração realizada através da API do backend, que gerencia a conexão com o Mercado Pago Checkout Bricks).
+</p>
+
+<p>
+  Toda a comunicação e lógica do fluxo são gerenciadas através da API desenvolvida para o evento, garantindo um processo seguro e eficiente para os participantes.
+</p>
+
+<p>
+  <img src="https://github.com/user-attachments/assets/da4f30d0-d04f-4914-b641-de8b19761876" alt="Logo" width="98%">
+</p>
+
+<p>
+  <img src="https://github.com/user-attachments/assets/7c6ccab6-b40a-45b9-a0e5-77f1605089f8" alt="Logo" width="49%">
+  <img src="https://github.com/user-attachments/assets/ff9c5dfa-31bd-4656-8d70-3a78c4eca7d1" alt="Logo" width="49%">
+</p>
+
+<p>
+  <img src="https://github.com/user-attachments/assets/6af00a2f-109e-427d-b26c-568d234b8a05" alt="Logo" width="49%">
+  <img src="https://github.com/user-attachments/assets/28c6a3e3-0569-49fa-8049-cd50cdd3450e" alt="Logo" width="49%">
+</p>
+
+<hr>
+</br>
+
+<h3>
   <a href="https://github.com/GFQ-513-Tech/lets-go-acamp-backoffice">Let' Go Acamp 2025 - Backoffice</a>
 </h3>
 
